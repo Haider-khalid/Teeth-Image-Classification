@@ -1,0 +1,7 @@
+CaS 0
+Gum 1
+OT 2
+OC 3
+OLP 4
+MC 5
+CoS 6
